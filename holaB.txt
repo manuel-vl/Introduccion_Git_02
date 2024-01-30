@@ -1,0 +1,1 @@
+genero conflicto con archivo ya existente del mismo nombre.
